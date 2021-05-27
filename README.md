@@ -77,7 +77,7 @@ Add on the app's build.gradle:
 dependencies {
       compile 'com.github.PhilJay:MPAndroidChart:v3.0.2' }
 
-##5. glide
+## 5. glide
 
 In a word: glide is a "picture loading and caching framework" focused on providing smooth slicing power
 
@@ -99,7 +99,7 @@ dependencies {
 [! (Copy code) (//common.cnblogs.com/images/copycode.gif)] (javascript:void(0); "Copy Code")
 
 
-##6.leakcanary
+## 6.leakcanary
 
 In a word: a memory detection framework for java and android clients
 
@@ -127,7 +127,7 @@ public class ExampleApplication extends Application {
 }
 [! (Copy code) (//common.cnblogs.com/images/copycode.gif)] (javascript:void(0); "Copy Code")
 
-##7.Android-Universal-Image-Loader
+## 7.Android-Universal-Image-Loader
 
 In a word: Once the picture loaded frame king, android development veterans have used it
 
@@ -142,7 +142,7 @@ use:
 Download the address universal-image-loader-1.9.5 .jar
 
 
-##8.EventBus
+## 8.EventBus
 
 In a word: EventBus is a framework for communication between local components
 
@@ -158,7 +158,7 @@ use:
 
 compile 'org.greenrobot:eventbus:3.0.0'
 
-##9.zxing
+## 9.zxing
 
 In a word: Barcode image processing library
 
@@ -169,7 +169,7 @@ github https://github.com/zxing/zxing
 Author Sean Owen
 
 
-##10.picasso
+## 10.picasso
 
 In a word: powerful picture download, cache framework
 
@@ -189,7 +189,7 @@ Or download it
 Jar package
 
 
-##11.lottie-android
+## 11.lottie-android
 
 In a word: A framework that quickly shows the animation of Adobe Afeter Effect (AE) tools on the Android side
 
@@ -200,7 +200,7 @@ github https://github.com/airbnb/lottie-android
 Author: Airbnb Team
 
 
-##12.fresco
+## 12.fresco
 
 In a word: A framework that manages picture memory
 
@@ -233,7 +233,7 @@ dependencies { // 在 API < 14 上的机器支持 WebP 时，需要添加
 [! (Copy code) (//common.cnblogs.com/images/copycode.gif)] (javascript:void(0); "Copy Code")
 
 
-##13.RxAndroid
+## 13.RxAndroid
 
 In a word: A framework for asynchronous communication between Android client components
 
@@ -248,7 +248,7 @@ use:
 compile 'io.reactivex.rxjava2:rxandroid:2.0.1'
 compile 'io.reactivex.rxjava2:rxjava:2.1.0'
 
-##14.SlidingMenu
+## 14.SlidingMenu
 
 In a word: Side-slip menu bar frame
 
@@ -263,7 +263,7 @@ use:
 Fork source code on gihub, integrated into the project
 
 
-##15.PhotoView
+## 15.PhotoView
 
 In a word: An ImageView presentation framework that supports zooming and responding to gestures
 
@@ -298,7 +298,7 @@ photoView.setImageResource(R.drawable.image);
 [! (Copy code) (//common.cnblogs.com/images/copycode.gif)] (javascript:void(0); "Copy Code")
 
 
-##16.material-dialogs
+## 16.material-dialogs
 
 In a word: A custom dialog framework
 
