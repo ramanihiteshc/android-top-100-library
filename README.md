@@ -1,6 +1,6 @@
 
 
-## \. 1. Retrofit　　
+## \ 1. Retrofit　　
 In a word: Retrofit is a type-safe network framework based on HTTP protocols that serves Android and java languages
 
 Reason for the list: Retrofit topped the list with 21.8k stars and android sub-titles.
